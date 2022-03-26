@@ -22,4 +22,3 @@
 
 
 
-![Crash Protect](https://media.discordapp.net/attachments/922811496541597706/932302306282708992/n-2vwpZaQdNMQHuuaRUxQONmDBd0jrKiT9TClKYcUvqtHq0o4O5uHd259C4IdWuDXH71OwK7YIcw1707-fcrop64100005a57ffffa5a8-k-c0xffffffff-no-nd-rj.png)
