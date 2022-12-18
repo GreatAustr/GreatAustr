@@ -1,6 +1,6 @@
 ```python
                                                                            
-                                Telegram: anti_mapper
+                                VK: g3ran
                                 DiscordServer: BIO
                                 BIO: check down
 ```
@@ -12,8 +12,8 @@
 <br>
 
 <br>
-<a href="https://discord.com/users/952950778589503568">
-        <img src="https://lanyard-profile-readme.vercel.app/api/952950778589503568?idleMessage=Я великий и могучий. Мой телеграмм канал где ты научишься взломам - https://t.me/russian_deanon&borderRadius=25px" />
+<a href="https://discord.com/users/1053280105822158919">
+        <img src="https://lanyard-profile-readme.vercel.app/api/1053280105822158919?idleMessage=Я великий и могучий. Мой телеграмм канал где ты научишься взломам - https://t.me/russian_deanon&borderRadius=25px" />
     </a>
 </p>
 
